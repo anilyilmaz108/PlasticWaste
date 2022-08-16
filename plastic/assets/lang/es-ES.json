@@ -1,0 +1,102 @@
+{
+    "main": {
+        "title": "Soporte de lengua",
+        "bodytext": "Visite Mobilerdev para la escritura de soporte de idiomas."
+    },
+    "intro_view": {
+        "intro_view_title_1": "Encuentre y comparta muestras",
+        "intro_view_subtitle_1": "Intercambio de muestras",
+        "intro_view_title_2": "Ver ejemplos compartidos enumerados",
+        "intro_view_subtitle_2": "Lista de muestra",
+        "intro_view_title_3": "Mira la ubicación de las muestras",
+        "intro_view_subtitle_3": "Ubicaciones de muestra",
+        "intro_view_back": "ESPALDA",
+        "intro_view_next": "SIGUIENTE",
+        "intro_view_skip": "SALTAR",
+        "intro_view_done": "HECHO"
+    },
+    "base_view": {
+        "base_view_title_1": "página de inicio",
+        "base_view_title_2": "Mapa",
+        "base_view_title_3": "Muestra"
+    },
+    "login_view": {
+        "login_view_button_1": "Inicio de sesión anónimo",
+        "login_view_button_2": "Iniciar sesión con correo electrónico/contraseña",
+        "login_view_button_3": "Inicia sesión con Google",
+        "login_view_error": "¡Error!",
+        "login_view_ok": "OK"
+    },
+    "register_view": {
+        "register_view_refresh_title_1": "Confirmar imagen",
+        "register_view_refresh_title_2": "Por favor, confirme su imagen.",
+        "register_view_refresh_title_3": "Aprobar",
+        "register_view_sign_in_title_1": "Acceso",
+        "register_view_sign_in_title_2": "Por favor, introduce una dirección de correo electrónico válida.",
+        "register_view_sign_in_title_3": "Correo electrónico",
+        "register_view_sign_in_title_4": "La contraseña no puede tener menos de 6 caracteres.",
+        "register_view_sign_in_title_5": "Clave",
+        "register_view_sign_in_title_6": "Acceso",
+        "register_view_sign_in_title_7": "Haga clic para crear una nueva cuenta",
+        "register_view_sign_in_title_8": "Olvidé mi contraseña",
+
+        "register_view_register_title_1": "Registro",
+        "register_view_register_title_2": "Puede agregar su foto desde la galería o con la cámara haciendo clic en el ícono de perfil.",
+        "register_view_register_title_3": "El nombre de usuario no se puede dejar en blanco",
+        "register_view_register_title_4": "Nombre de usuario",
+        "register_view_register_title_5": "Tu dirección de correo electrónico es incorrecta",
+        "register_view_register_title_6": "Correo electrónico",
+        "register_view_register_title_7": "La contraseña no puede tener menos de 6 caracteres",
+        "register_view_register_title_8": "Clave",
+        "register_view_register_title_9": "Las contraseñas no coinciden",
+        "register_view_register_title_10": "Aprobar",
+        "register_view_register_title_11": "Registro",
+        "register_view_register_title_12": "¿Ya eres usuario? Acceso",
+
+        "register_view_reset_title_1": "Renovación de contraseña",
+        "register_view_reset_title_2": "Tu dirección de correo electrónico es incorrecta",
+        "register_view_reset_title_3": "Correo electrónico",
+        "register_view_reset_title_4": "Aprobar",
+
+        "register_view_my_dialog_title_1": "Verificación de la cuenta",
+        "register_view_my_dialog_title_2": "Hola, revisa tu dirección de correo electrónico.",
+        "register_view_my_dialog_title_3": "Después de completar el proceso de confirmación, debe iniciar sesión nuevamente.",
+        "register_view_my_dialog_title_4": "Comprendido",
+
+        "register_view_reset_dialog_title_1": "Renovación de contraseña",
+        "register_view_reset_dialog_title_2": "Hola, revisa tu dirección de correo electrónico.",
+        "register_view_reset_dialog_title_3": "Puede cambiar su contraseña haciendo clic en el enlace.",
+        "register_view_reset_dialog_title_4": "Comprendido"
+    },
+    "get_sample_view": {
+        "get_sample_view_title_1": "Agregar muestra",
+        "get_sample_view_title_2": "Puede agregar su foto desde la galería o con la cámara haciendo clic en el ícono Agregar.",
+        "get_sample_view_title_3": "Título",
+        "get_sample_view_title_4": "Subtitular",
+        "get_sample_view_title_5": "adicional",
+        "get_sample_view_title_6": "Agregar",
+
+        "get_sample_view_sample_1": "botellas de PET",
+        "get_sample_view_sample_2": "tapas de botella",
+        "get_sample_view_sample_3": "damajuanas de agua",
+        "get_sample_view_sample_4": "embalaje",
+        "get_sample_view_sample_5": "bolsas de nailon",
+        "get_sample_view_sample_6": "cajas de plástico",
+        "get_sample_view_sample_7": "tazas para mascotas",
+        "get_sample_view_sample_8": "Embalaje de material de limpieza",
+        "get_sample_view_sample_9": "Embalaje de productos de cuidado personal",
+        "get_sample_view_sample_10": "juguetes de plástico"
+    },
+    "sample_review": {
+        "sample_review_title_1": "Detección de muestras: ",
+        "sample_review_title_2": "Ubicación del mapa"
+    },
+    "image_service": {
+        "image_service_title_1": "Cámara - Galería",
+        "image_service_title_2": "Subir imagen con cámara o desde galería",
+        "image_service_title_3": "Acepte los permisos para cargar imágenes desde la cámara o la galería.",
+        "image_service_title_4": "Galería",
+        "image_service_title_5": "Cámara",
+        "image_service_title_6": "Eliminar"
+    }
+}

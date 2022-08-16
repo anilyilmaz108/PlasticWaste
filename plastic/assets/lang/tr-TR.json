@@ -1,0 +1,103 @@
+{
+    "main": {
+        "title": "Dil Desteği",
+        "bodytext": "Dil Desteği yazısı için MobilerDev'i ziyaret edin."
+    },
+    "intro_view": {
+        "intro_view_title_1": "Numuneleri bulun ve paylaşın",
+        "intro_view_subtitle_1": "Numune Paylaşma",
+        "intro_view_title_2": "Paylaşılan numuneleri listeli olarak görün",
+        "intro_view_subtitle_2": "Numune Listesi",
+        "intro_view_title_3": "Numunelerin konumuna bakın",
+        "intro_view_subtitle_3": "Numune Konumları",
+        "intro_view_back": "GERİ",
+        "intro_view_next": "İLERİ",
+        "intro_view_skip": "ATLA",
+        "intro_view_done": "BİTİR"
+    },
+    "base_view": {
+        "base_view_title_1": "Anasayfa",
+        "base_view_title_2": "Harita",
+        "base_view_title_3": "Numune"
+    },
+    "login_view": {
+        "login_view_button_1": "Anonim Giriş Yap",
+        "login_view_button_2": "Email/Parola ile Giriş Yap",
+        "login_view_button_3": "Google ile Giriş Yap",
+        "login_view_error": "Hata!",
+        "login_view_ok": "Tamam"
+    },
+    "register_view": {
+        "register_view_refresh_title_1": "Resmi Onayla",
+        "register_view_refresh_title_2": "Lütfen resminizi onaylayınız.",
+        "register_view_refresh_title_3": "Onayla",
+
+        "register_view_sign_in_title_1": "Giriş Yap",
+        "register_view_sign_in_title_2": "Geçerli bir email adresi giriniz.",
+        "register_view_sign_in_title_3": "E-Mail",
+        "register_view_sign_in_title_4": "Parola 6 karakterden daha az olamaz.",
+        "register_view_sign_in_title_5": "Parola",
+        "register_view_sign_in_title_6": "Giriş",
+        "register_view_sign_in_title_7": "Yeni bir hesap oluşturmak için tıklayın",
+        "register_view_sign_in_title_8": "Şifremi unuttum",
+
+        "register_view_register_title_1": "Kayıt Ol",
+        "register_view_register_title_2": "Profil simgesine tıklayarak fotoğrafınızı galeriden veya kamera ile ekleyebilirsiniz.",
+        "register_view_register_title_3": "Kullanıcı adı boş bırakılamaz",
+        "register_view_register_title_4": "Kullanıcı adı",
+        "register_view_register_title_5": "Email adresiniz hatalı",
+        "register_view_register_title_6": "E-Mail",
+        "register_view_register_title_7": "Parola 6 karakterden daha az olamaz",
+        "register_view_register_title_8": "Parola",
+        "register_view_register_title_9": "Parolalar eşleşmedi",
+        "register_view_register_title_10": "Onayla",
+        "register_view_register_title_11": "Kayıt Ol",
+        "register_view_register_title_12": "Zaten üye misin? Giriş yap",
+
+        "register_view_reset_title_1": "Şifre Yenileme",
+        "register_view_reset_title_2": "Email adresiniz hatalı",
+        "register_view_reset_title_3": "E-Mail",
+        "register_view_reset_title_4": "Onayla",
+
+        "register_view_my_dialog_title_1": "Hesap Doğrulama",
+        "register_view_my_dialog_title_2": "Merhaba, mail adresinizi kontrol edin.",
+        "register_view_my_dialog_title_3": "Onay işlemini yaptıktan sonra tekrar giriş yapmalısınız.",
+        "register_view_my_dialog_title_4": "Anladım",
+
+        "register_view_reset_dialog_title_1": "Şifre Yenileme",
+        "register_view_reset_dialog_title_2": "Merhaba, mail adresinizi kontrol edin.",
+        "register_view_reset_dialog_title_3": "Linke tıklayarak şifrenizi değiştirebilirsiniz.",
+        "register_view_reset_dialog_title_4": "Anladım"
+    },
+    "get_sample_view": {
+        "get_sample_view_title_1": "Numune Ekle",
+        "get_sample_view_title_2": "Ekleme simgesine tıklayarak fotoğrafınızı galeriden veya kamera ile ekleyebilirsiniz.",
+        "get_sample_view_title_3": "Başlık",
+        "get_sample_view_title_4": "Alt Başlık",
+        "get_sample_view_title_5": "eklendi",
+        "get_sample_view_title_6": "Ekle",
+
+        "get_sample_view_sample_1": "Pet şişeler",
+        "get_sample_view_sample_2": "Şişe kapakları",
+        "get_sample_view_sample_3": "Su damacanaları",
+        "get_sample_view_sample_4": "Ambalajlar",
+        "get_sample_view_sample_5": "Naylon poşetler",
+        "get_sample_view_sample_6": "Plastik kutular",
+        "get_sample_view_sample_7": "Pet bardaklar",
+        "get_sample_view_sample_8": "Temizlik malzemesi ambalajları",
+        "get_sample_view_sample_9": "Kişisel bakım ürünleri ambalajları",
+        "get_sample_view_sample_10": "Plastik oyuncaklar"
+    },
+    "sample_review": {
+        "sample_review_title_1": "Numune tespiti: ",
+        "sample_review_title_2": "Harita Konumu"
+    },
+    "image_service": {
+        "image_service_title_1": "Kamera - Galeri",
+        "image_service_title_2": "Kamera ile veya galeriden resim yükle",
+        "image_service_title_3": "Kamera veya galeriden resim yüklemek için izinleri kabul edin.",
+        "image_service_title_4": "Galeri",
+        "image_service_title_5": "Kamera",
+        "image_service_title_6": "Sil"
+    }
+}

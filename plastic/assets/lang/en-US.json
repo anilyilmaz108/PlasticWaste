@@ -1,0 +1,102 @@
+{
+    "main": {
+        "title": "Language Support",
+        "bodytext": "Visit mobilerDev for language support article"
+    },
+    "intro_view": {
+        "intro_view_title_1": "Find and share samples",
+        "intro_view_subtitle_1": "Sample Sharing",
+        "intro_view_title_2": "See shared samples listed",
+        "intro_view_subtitle_2": "Sample List",
+        "intro_view_title_3": "Look at the location of the samples",
+        "intro_view_subtitle_3": "Sample Locations",
+        "intro_view_back": "BACK",
+        "intro_view_next": "NEXT",
+        "intro_view_skip": "SKIP",
+        "intro_view_done": "DONE"
+    },
+    "base_view": {
+        "base_view_title_1": "Home page",
+        "base_view_title_2": "Map",
+        "base_view_title_3": "Sample"
+    },
+    "login_view": {
+        "login_view_button_1": "Sign in Anonymously",
+        "login_view_button_2": "Sign in with Email/Password",
+        "login_view_button_3": "Sign in with Google",
+        "login_view_error": "Error!",
+        "login_view_ok": "Ok"
+    },
+    "register_view": {
+        "register_view_refresh_title_1": "I forgot my password",
+        "register_view_refresh_title_2": "Please confirm your picture.",
+        "register_view_refresh_title_3": "Confirm",
+        "register_view_sign_in_title_1": "Login",
+        "register_view_sign_in_title_2": "Please enter a valid email address.",
+        "register_view_sign_in_title_3": "E-Mail",
+        "register_view_sign_in_title_4": "Password cannot be less than 6 characters.",
+        "register_view_sign_in_title_5": "Password",
+        "register_view_sign_in_title_6": "Login",
+        "register_view_sign_in_title_7": "Click to create a new account",
+        "register_view_sign_in_title_8": "I forgot my password",
+
+        "register_view_register_title_1": "Register",
+        "register_view_register_title_2": "You can add your photo from gallery or with camera by clicking on profile icon",
+        "register_view_register_title_3": "Username cannot be left blank",
+        "register_view_register_title_4": "Username",
+        "register_view_register_title_5": "Your email address is incorrect",
+        "register_view_register_title_6": "E-Mail",
+        "register_view_register_title_7": "Password cannot be less than 6 characters",
+        "register_view_register_title_8": "Password",
+        "register_view_register_title_9": "Passwords did not match",
+        "register_view_register_title_10": "Confirm",
+        "register_view_register_title_11": "Register",
+        "register_view_register_title_12": "Already a member? Login",
+
+        "register_view_reset_title_1": "Password Renewal",
+        "register_view_reset_title_2": "Your email address is incorrect",
+        "register_view_reset_title_3": "E-Mail",
+        "register_view_reset_title_4": "Confirm",
+
+        "register_view_my_dialog_title_1": "Account Verification",
+        "register_view_my_dialog_title_2": "Hello, check your e-mail address.",
+        "register_view_my_dialog_title_3": "After completing the confirmation process, you must log in again.",
+        "register_view_my_dialog_title_4": "Understood",
+
+        "register_view_reset_dialog_title_1": "Password Renewal",
+        "register_view_reset_dialog_title_2": "Hello, check your e-mail address.",
+        "register_view_reset_dialog_title_3": "You can change your password by clicking the link.",
+        "register_view_reset_dialog_title_4": "Understood"
+    },
+    "get_sample_view": {
+        "get_sample_view_title_1": "Add Sample",
+        "get_sample_view_title_2": "You can add your photo from gallery or with camera by clicking on the add icon.",
+        "get_sample_view_title_3": "Title",
+        "get_sample_view_title_4": "Subtitle",
+        "get_sample_view_title_5": "added",
+        "get_sample_view_title_6": "Add",
+
+        "get_sample_view_sample_1": "PET bottles",
+        "get_sample_view_sample_2": "bottle caps",
+        "get_sample_view_sample_3": "water demijohns",
+        "get_sample_view_sample_4": "Packaging",
+        "get_sample_view_sample_5": "nylon bags",
+        "get_sample_view_sample_6": "plastic boxes",
+        "get_sample_view_sample_7": "pet cups",
+        "get_sample_view_sample_8": "Cleaning material packaging",
+        "get_sample_view_sample_9": "Personal care products packaging",
+        "get_sample_view_sample_10": "plastic toys"
+    },
+    "sample_review": {
+        "sample_review_title_1": "Sample detection: ",
+        "sample_review_title_2": "Map Location"
+    },
+    "image_service": {
+        "image_service_title_1": "Camera - Gallery",
+        "image_service_title_2": "Upload image with camera or from gallery",
+        "image_service_title_3": "Accept permissions to upload images from camera or gallery.",
+        "image_service_title_4": "Gallery",
+        "image_service_title_5": "Camera",
+        "image_service_title_6": "Delete"
+    }
+}

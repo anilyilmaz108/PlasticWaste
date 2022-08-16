@@ -1,0 +1,102 @@
+{
+    "main": {
+        "title": "Sprachunterstützung",
+        "bodytext": "Besuchen Sie MobilerDev für den Artikel des Sprachunterstützungsartikels"
+    },
+    "intro_view": {
+        "intro_view_title_1": "Proben finden und teilen",
+        "intro_view_subtitle_1": "Musterfreigabe",
+        "intro_view_title_2": "Siehe die aufgeführten freigegebenen Beispiele",
+        "intro_view_subtitle_2": "Beispielliste",
+        "intro_view_title_3": "Sehen Sie sich die Position der Proben an",
+        "intro_view_subtitle_3": "Beispielstandorte",
+        "intro_view_back": "DER RÜCKEN",
+        "intro_view_next": "NÄCHSTE",
+        "intro_view_skip": "ÜBERSPRINGEN",
+        "intro_view_done": "ERLEDIGT"
+    },
+    "base_view": {
+        "base_view_title_1": "Startseite",
+        "base_view_title_2": "Karte",
+        "base_view_title_3": "Probe"
+    },
+    "login_view": {
+        "login_view_button_1": "Anonym einloggen",
+        "login_view_button_2": "Login mit E-Mail/Passwort",
+        "login_view_button_3": "Login mit Google",
+        "login_view_error": "Fehler!",
+        "login_view_ok": "OK"
+    },
+    "register_view": {
+        "register_view_refresh_title_1": "Bild bestätigen",
+        "register_view_refresh_title_2": "Bitte bestätigen Sie Ihr Bild.",
+        "register_view_refresh_title_3": "Genehmigen",
+        "register_view_sign_in_title_1": "Anmeldung",
+        "register_view_sign_in_title_2": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
+        "register_view_sign_in_title_3": "EMail",
+        "register_view_sign_in_title_4": "Das Passwort darf nicht weniger als 6 Zeichen lang sein.",
+        "register_view_sign_in_title_5": "Passwort",
+        "register_view_sign_in_title_6": "Anmeldung",
+        "register_view_sign_in_title_7": "Klicken Sie hier, um ein neues Konto zu erstellen",
+        "register_view_sign_in_title_8": "Ich habe mein Passwort vergessen",
+
+        "register_view_register_title_1": "Registrieren",
+        "register_view_register_title_2": "Sie können Ihr Foto aus der Galerie oder mit der Kamera hinzufügen, indem Sie auf das Profilsymbol klicken.",
+        "register_view_register_title_3": "Der Benutzername darf nicht leer bleiben",
+        "register_view_register_title_4": "Nutzername",
+        "register_view_register_title_5": "Deine Emailadresse ist falsch",
+        "register_view_register_title_6": "EMail",
+        "register_view_register_title_7": "Das Passwort darf nicht weniger als 6 Zeichen lang sein.",
+        "register_view_register_title_8": "Passwort",
+        "register_view_register_title_9": "Die Passwörter stimmen nicht überein",
+        "register_view_register_title_10": "Genehmigen",
+        "register_view_register_title_11": "Registrieren",
+        "register_view_register_title_12": "Schon ein Mitglied? Anmeldung",
+
+        "register_view_reset_title_1": "Passworterneuerung",
+        "register_view_reset_title_2": "Deine Emailadresse ist falsch",
+        "register_view_reset_title_3": "EMail",
+        "register_view_reset_title_4": "Genehmigen",
+
+        "register_view_my_dialog_title_1": "Bestätigung des Kontos",
+        "register_view_my_dialog_title_2": "Hallo, überprüfen Sie Ihre E-Mail-Adresse.",
+        "register_view_my_dialog_title_3": "Nach Abschluss des Bestätigungsprozesses müssen Sie sich erneut anmelden.",
+        "register_view_my_dialog_title_4": "Verstanden",
+
+        "register_view_reset_dialog_title_1": "Passworterneuerung",
+        "register_view_reset_dialog_title_2": "Hallo, überprüfen Sie Ihre E-Mail-Adresse.",
+        "register_view_reset_dialog_title_3": "Sie können Ihr Passwort ändern, indem Sie auf den Link klicken.",
+        "register_view_reset_dialog_title_4": "Verstanden"
+    },
+    "get_sample_view": {
+        "get_sample_view_title_1": "Probe hinzufügen",
+        "get_sample_view_title_2": "Sie können Ihr Foto aus der Galerie oder mit der Kamera hinzufügen, indem Sie auf das Hinzufügen-Symbol klicken.",
+        "get_sample_view_title_3": "Titel",
+        "get_sample_view_title_4": "Untertitel",
+        "get_sample_view_title_5": "hinzugefügt",
+        "get_sample_view_title_6": "Hinzufügen",
+
+        "get_sample_view_sample_1": "PET-Flaschen",
+        "get_sample_view_sample_2": "Flaschenverschlüsse",
+        "get_sample_view_sample_3": "Wasserballons",
+        "get_sample_view_sample_4": "Verpackung",
+        "get_sample_view_sample_5": "Nylontaschen",
+        "get_sample_view_sample_6": "Plastikboxen",
+        "get_sample_view_sample_7": "Haustierbecher",
+        "get_sample_view_sample_8": "Verpackung von Reinigungsmitteln",
+        "get_sample_view_sample_9": "Verpackung von Körperpflegeprodukten",
+        "get_sample_view_sample_10": "Plastikspielzeuge"
+    },
+    "sample_review": {
+        "sample_review_title_1": "Probenerkennung: ",
+        "sample_review_title_2": "Karte Lage"
+    },
+    "image_service": {
+        "image_service_title_1": "Kamera - Galerie",
+        "image_service_title_2": "Laden Sie ein Bild mit der Kamera oder aus der Galerie hoch",
+        "image_service_title_3": "Akzeptieren Sie die Berechtigungen zum Hochladen von Bildern von der Kamera oder Galerie.",
+        "image_service_title_4": "Galerie",
+        "image_service_title_5": "Kamera",
+        "image_service_title_6": "löschen"
+    }
+}

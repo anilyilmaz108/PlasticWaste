@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "998913420433",
+    "project_id": "plasticwaste-354915",
+    "storage_bucket": "plasticwaste-354915.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:998913420433:android:0a868a94e81a477c11a330",
+        "android_client_info": {
+          "package_name": "com.anilyilmaz.plastic"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "998913420433-mbni95unhkm6atnfi4j6mobdl6635r5u.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.anilyilmaz.plastic",
+            "certificate_hash": "4546ef670dd5eb05d4ff1b716e77e99d121fc36f"
+          }
+        },
+        {
+          "client_id": "998913420433-bqabuif459cai6a1t95s9kk1qhh0k1p3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAHm2ZlwBbkAfj7pR-S0_aWeudubE8uKrc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "998913420433-bqabuif459cai6a1t95s9kk1qhh0k1p3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
